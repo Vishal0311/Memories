@@ -6,6 +6,7 @@ The App is called "Memories" and it is a simple social media app that allows use
 
 
 ## Features
+         * Fully responsive.
          * User can post.
          * User can like a post.
          * User can delete a post.
